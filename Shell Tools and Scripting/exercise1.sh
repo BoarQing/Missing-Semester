@@ -1,0 +1,1 @@
+ls -ahltc --color=always

@@ -1,0 +1,1 @@
+find . -name "*.html" -exec zip -r all_html.zip {} \;
